@@ -1,0 +1,4 @@
+curso\softcaribbean\services\UserService.class
+curso\softcaribbean\rest\UserREST.class
+curso\softcaribbean\model\User.class
+curso\softcaribbean\repository\UserRepository.class
